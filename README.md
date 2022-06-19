@@ -3,3 +3,13 @@
 <p align="center">Smart Contract 🚀</p>
 
 <p align="center">https://www.staartoken.io</p>
+<hr>
+<p align="center">
+  <a href="about">About</a>
+  •
+  <a href="commands">Technical Analysis</a>
+  •
+  <a href="license">License</a>
+  •
+  <a href="contributors">Contributors</a>
+</p>
