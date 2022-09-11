@@ -2,7 +2,7 @@
 
 <p align="center">Smart Contract 🚀</p>
 
-<p align="center">https://www.staartoken.io</p>
+<p align="center">https://staar.world</p>
 <hr>
 <p align="center">
   <a href="about">About</a>
